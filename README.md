@@ -1,2 +1,0 @@
-# claseADSI
-#HOLA MUNDO
