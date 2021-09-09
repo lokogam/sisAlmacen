@@ -161,7 +161,7 @@ public class FrmLogin extends javax.swing.JFrame {
         if(perfil.equals("")){
             JOptionPane.showMessageDialog(rootPane, "No se encontro el usuario, comunicate con el adminitrador");
             txtUsuario.setText("Duvan");
-            txtClave.setText("123");
+            txtClave.setText("1234");
             txtUsuario.requestFocusInWindow();
         }else{
             MDIPrincipal miPrincipal = new MDIPrincipal();
